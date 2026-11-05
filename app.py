@@ -272,5 +272,5 @@ with tab4:
 st.markdown("---")
 st.markdown(
     "🎮 **Video Game Sales Analysis Dashboard** | "
-    "Developed using Python, Pandas, Seaborn and Streamlit"
+    "Video Game Sales Analysis Dashboard Loaded Successfully!"
 )
